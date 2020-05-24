@@ -23,4 +23,4 @@ Listando com o useEffect(() ⇒ {}, []), useState, e mostrando o setRepositories
 
     Curtindo com um metodo post na rota do like e apenas alterando atualizando o valor de likedRepository
     
-    https://user-images.githubusercontent.com/45858897/82743432-b860ad00-9d41-11ea-8e6e-a4b85c2530b4.gif
+    ![gif](https://user-images.githubusercontent.com/45858897/82743432-b860ad00-9d41-11ea-8e6e-a4b85c2530b4.gif)
