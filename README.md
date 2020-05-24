@@ -22,3 +22,4 @@ Listando com o useEffect(() ⇒ {}, []), useState, e mostrando o setRepositories
 - **`Curtir um repositório listado da API`**: Deve ser capaz de curtir um item na sua API através de um botão com o texto **Curtir** e deve atualizar o número de likes na listagem no mobile.
 
     Curtindo com um metodo post na rota do like e apenas alterando atualizando o valor de likedRepository
+    https://user-images.githubusercontent.com/45858897/82743432-b860ad00-9d41-11ea-8e6e-a4b85c2530b4.gif
